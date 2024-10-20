@@ -51,3 +51,7 @@ Follow these steps to set up the project locally:
 
    ```bash
    git clone https://github.com/your-username/amazon-clone.git
+   npm install
+   npm start
+
+
