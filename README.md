@@ -3,7 +3,15 @@
 A fully functional **Amazon Clone** built using **React**, **Firebase**, **HTML**, and **CSS**. This project replicates key features of Amazon's e-commerce platform, including product browsing, user authentication, a shopping cart, and a checkout process.
 
 ## Amazon Clone Screenshot
-<img width="1680" alt="Screenshot 2024-10-20 at 5 48 44 PM" src="https://github.com/user-attachments/assets/d5d0b892-436a-4742-9892-d7ec49350535">
+
+![WhatsApp Image 2024-10-20 at 17 55 06](https://github.com/user-attachments/assets/8663d414-c517-463d-a179-d002a2fa26f0)
+![WhatsApp Image 2024-10-20 at 17 55 06 (4)](https://github.com/user-attachments/assets/79d697db-ecd6-4f3d-a089-553ce9d43c5f)
+![WhatsApp Image 2024-10-20 at 17 55 06 (3)](https://github.com/user-attachments/assets/20b9ddb1-6894-4504-871d-0ea6d4218857)
+![WhatsApp Image 2024-10-20 at 17 55 06 (2)](https://github.com/user-attachments/assets/77e8f1d3-698f-4803-9860-75af68ca3e31)
+![WhatsApp Image 2024-10-20 at 17 55 06 (1)](https://github.com/user-attachments/assets/4cbc7e92-0966-4f13-8980-e9e82fdc626b)
+![WhatsApp Image 2024-10-20 at 17 55 05](https://github.com/user-attachments/assets/ee3d9d00-bce2-4e3b-a696-78cb625980fd)
+![WhatsApp Image 2024-10-20 at 17 55 05 (1)](https://github.com/user-attachments/assets/dda9168f-60ad-4360-87a3-f6f84c1b7286)
+![WhatsApp Image 2024-10-20 at 17 55 04](https://github.com/user-attachments/assets/f3b5c062-4c85-458a-a805-0dd96bc8a40d)
 
 
 
