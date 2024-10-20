@@ -2,7 +2,10 @@
 
 A fully functional **Amazon Clone** built using **React**, **Firebase**, **HTML**, and **CSS**. This project replicates key features of Amazon's e-commerce platform, including product browsing, user authentication, a shopping cart, and a checkout process.
 
-![Amazon Clone Screenshot](path/to/screenshot.png)
+## Amazon Clone Screenshot
+<img width="1680" alt="Screenshot 2024-10-20 at 5 48 44 PM" src="https://github.com/user-attachments/assets/d5d0b892-436a-4742-9892-d7ec49350535">
+
+
 
 ## Features
 
